@@ -1,0 +1,455 @@
+========== RESULTADOS ==========
+Estudiante #1
+Nombre: Acosta Hanna
+Fecha: 13/05/2026
+Promedio: 9.00
+Nota mayor: 9.00
+Nota menor: 9.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #2
+Nombre: Andrade Hugo
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #3
+Nombre: Atiencia Josue
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #4
+Nombre: Balarezo Diego
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #5
+Nombre: Barrionuevo Job
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #6
+Nombre: Bedoya Juan
+Fecha: 13/05/206
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #7
+Nombre: Bravo Samuel
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #8
+Nombre: Cajiao Paulo
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #9
+Nombre: Calvopi a Brandon
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #10
+Nombre: Castelo Katherine
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #11
+Nombre: Chacha Victor
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #12
+Nombre: Chiluiza Steed
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #13
+Nombre: Dominguez Daniel
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #14
+Nombre: Freire Alan
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #15
+Nombre: Gualle Abisag
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #16
+Nombre: Guaman Alexander
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #17
+Nombre: Guanga Sebastian
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #18
+Nombre: Guanotoa Karla
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #19
+Nombre: Landeta Edison
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #20
+Nombre: Loor Jhon
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #21
+Nombre: 2
+Fecha: Lopez Washington
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #22
+Nombre: Miranda Alan
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #23
+Nombre: Monar Jhair
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #24
+Nombre: Muyulema Mateo
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #25
+Nombre: Narvaez Antonella
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #26
+Nombre: Nu ez Bryan
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #27
+Nombre: Pilco Mario
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #28
+Nombre: Pomaquero Katherine
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #29
+Nombre: Quevedo Gina
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #30
+Nombre: Rivadeneyra Matias
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #31
+Nombre: Rocha Carolina
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #32
+Nombre: Sanchez Isaac
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #33
+Nombre: Segovia Joseph
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #34
+Nombre: Supe Joan
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #35
+Nombre: Toapanta Matias
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #36
+Nombre: Verdesoto Kevin
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #37
+Nombre: Villacres Alejandro
+Fecha: 13/05/2026
+Promedio: 8.60
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
+
+========== RESULTADOS ==========
+Estudiante #38
+Nombre: Viteri Shantal
+Fecha: 13/05/2026
+Promedio: 8.40
+Nota mayor: 9.00
+Nota menor: 8.00
+Cantidad de aprobados: 5
+Cantidad de reprobados: 0
+Lenguaje utilizado: C++
+================================
